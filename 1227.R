@@ -1,5 +1,5 @@
 ##### renew ----
-## 1927 특별
+## 1227 normal
 library(tidyverse)
 
 iris %>% tibble() %>%
