@@ -1,5 +1,5 @@
 ##### renew ----
-## 1918
+## 신입사원 수정
 library(tidyverse)
 
 iris %>% tibble() %>%

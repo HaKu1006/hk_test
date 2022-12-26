@@ -1,4 +1,5 @@
 ### 
+# R2 신입 수정
 library(tidyverse)
 
 iris %>% tibble() %>%

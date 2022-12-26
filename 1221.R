@@ -1,5 +1,5 @@
 ##### renew ----
-## 1927특별
+# R2 신입 수정
 library(tidyverse)
 
 iris %>% tibble() %>%
